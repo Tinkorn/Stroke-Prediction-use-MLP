@@ -13,4 +13,5 @@ my steps
 5. train model 
 6. evaluate and predict
 7. create submission file
+
 my kaggle :https://www.kaggle.com/code/semjinwu
