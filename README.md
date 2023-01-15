@@ -2,8 +2,8 @@
 this is my jupyter nootbook for stroke prediction
 
 i'm use 2 training dataset from 
-kaggle competition :https://www.kaggle.com/competitions/playground-series-s3e2/overview
-other dataset : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+1. kaggle competition :https://www.kaggle.com/competitions/playground-series-s3e2/overview
+2. other dataset : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 my steps
 1. load dataset from  2 source
@@ -13,3 +13,4 @@ my steps
 5. train model 
 6. evaluate and predict
 7. create submission file
+my kaggle :https://www.kaggle.com/code/semjinwu
